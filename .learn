@@ -1,5 +1,14 @@
 tags:
-- readme
-languages:
-- undefined
-    
+  - enums
+  - each
+  - collect
+  - select
+  - find_by
+  - delete_if
+  - include?
+  - any?
+  - repl
+language: 
+  - ruby
+resources: 
+  - 0
