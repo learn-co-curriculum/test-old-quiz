@@ -1,12 +1,12 @@
 # Enumerator Quiz
 
-## Objectives
+## Learning Goal
 
 Become familiar with using common iterators introduced in the previous lesson.
 
 ???
 
-# Code Challenge
+# Challenge
 
 ?: Using `.each`
 
