@@ -37,9 +37,9 @@ lunch_menu.map{|item| "#{item}!" }
 ``` ruby
 lunch_menu.reduce{|item, memo| memo += item }
 ```
-(x)
+( )
 ``` ruby
-lunch_menu.map{|item| item + "!" }
+lunch_menu.map{|item| (item, "!") }
 ```
 
 ?: Using `.collect`
@@ -101,10 +101,10 @@ odds_and_evens.select do |n|
   n % 2 == 0
 end
 ```
-(x)
+( )
 ``` ruby
 odds_and_evens.select do |n|
-  n.even?
+  n.odd?
 end
 ```
 ( )
