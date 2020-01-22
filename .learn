@@ -8,5 +8,5 @@ tags:
   - include?
   - any?
   - repl
-language: 
+languages: 
   - ruby
